@@ -44,7 +44,7 @@ A comprehensive real-time sign language recognition system that leverages cuttin
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/harshitavishnoi/sign_language_transcription.git
+   git clone https://github.com/Garima-Sangwan/Sign-Language-Transcription-Using-Ai
    cd sign_language_transcription
    ```
 

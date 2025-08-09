@@ -21,7 +21,6 @@ A comprehensive real-time sign language recognition system that leverages cuttin
 ## 📋 Table of Contents
 
 - [Features](#-features)
-- [Demo](#-demo)
 - [Installation](#-installation)
 - [Quick Start](#-quick-start)
 - [Usage](#-usage)
@@ -257,9 +256,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- **Author**: Harshita Vishnoi
-- **GitHub**: [@harshitavishnoi](https://github.com/harshitavishnoi)
-- **Issues**: [Report bugs or request features](https://github.com/harshitavishnoi/sign_language_transcription/issues)
+- **Author**: Garima Sangwan
+- **GitHub**: [@GarimaSangwan](https://github.com/Garima-sangwan)
+- **Issues**: [Report bugs or request features](https://github.com/Garima-Sangwan/Sign-Language-Transcription-Using-Ai/issues)
 
 ---
 
